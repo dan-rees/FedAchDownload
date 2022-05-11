@@ -1,0 +1,1 @@
+﻿throw new NotImplementedException("FedACH download is not available.");
